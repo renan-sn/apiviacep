@@ -31,3 +31,20 @@ form input[type=number], .buscar {
 form .buscar {
     width: 55px;
 }
+
+
+/* div dados */
+div.dados {
+    margin-top: 20px;
+} 
+
+div.dados h3 {
+    font-family: Ubuntu, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.dados strong {
+    font-size: 16px;
+    font-weight: 300;
+}
